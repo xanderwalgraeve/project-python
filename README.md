@@ -1,4 +1,3 @@
-
 Mijn Project
 Dit is een command line applicatie voor het beheren van producten.
 
@@ -46,6 +45,10 @@ for product in products:
 
 # Sluit de databaseverbinding
 product_db.close_connection()
+Instellingenbestand
+config.ini
+Om de applicatie te configureren, maak een bestand met de naam config.ini in de hoofdmap. Kopieer de inhoud van config_example.ini en vul de juiste waarden in.
+
 Bijdragen
-Bijdragen zijn welkom! Open een probleem of stuur een pull-verzoek.
+Bijdragen zijn welkom! Open een probleem of stuur een pull-verzoek
 
