@@ -8,10 +8,9 @@ Dit is een command line applicatie voor het beheren van boeken.
 - Genereren van rapporten in CSV of Excel
 
 ## Installatie
-1. Clone de repository: `git clone https://github.com/jouw-gebruikersnaam/mijn-project.git`
-2. Ga naar de projectmap: `cd mijn-project`
+1. Clone de repository: `git clone https://github.com/xanderwalgraeve/project-python.git`
+2. Ga naar de projectmap: `cd project-python`
 3. Voer de applicatie uit: `python scripts.py`
 
 ## Bijdragen
 Bijdragen zijn welkom! Open een probleem of stuur een pull-verzoek.
-
