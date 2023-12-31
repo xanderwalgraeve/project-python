@@ -6,6 +6,7 @@ Dit is een command line applicatie voor het beheren van boeken.
 - Toevoegen van boeken aan de database
 - Zoeken naar boeken
 - Genereren van rapporten in CSV of Excel
+- ihliuhluh
 
 ## Installatie
 1. Clone de repository: `git clone https://github.com/jouw-gebruikersnaam/mijn-project.git`
